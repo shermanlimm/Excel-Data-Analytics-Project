@@ -8,12 +8,13 @@ As a job seeker, I have realised that there's a lack of data exploring the most 
 
 To understand the data science job market, these are the following questions:
 
-1. **What are the top skills required for a certain role?**
-2. **What are the top skills of all data professionals?**
-3. **Do more skills equal to more salary?**
+1. What are the top skills required for a certain role?
+2. What are the top skills of all data professionals?
+3. Do more skills equal to more salary?
 
-<img width="2247" height="655" alt="Screenshot 2025-12-17 125853" src="https://github.com/user-attachments/assets/c5a64f61-dbfe-4b71-8efc-9fe48283230c" />
-<img width="874" height="537" alt="2_Project_Analysis_Chart1" src="https://github.com/user-attachments/assets/786eaf92-daa1-4c1e-a0ec-0c51f98cda1f" />
+<img width="2247" height="655" alt="Screenshot 2025-12-17 125853" src="https://github.com/user-attachments/assets/8e590d96-837a-4ec0-adc0-b616e0e2dac9" />
+
+<img width="2714" height="798" alt="Screenshot 2025-12-17 130000" src="https://github.com/user-attachments/assets/8ed11d7e-544f-490e-a6a1-4860e4a70d21" />
 
 ### Excel Skills Used
 
