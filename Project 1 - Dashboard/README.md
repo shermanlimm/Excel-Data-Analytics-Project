@@ -1,6 +1,6 @@
 # Project 1 - Dashboard
 
-<img width="2608" height="1170" alt="Screenshot 2025-12-17 124320" src="https://github.com/user-attachments/assets/61c15eb8-eb6d-42fb-9338-1d8f1c227e00" />
+<img width="2608" height="1170" alt="Screenshot 2025-12-17 124320" src="https://github.com/user-attachments/assets/efda64e9-e70c-4e88-bdc2-5c5c7bf5fbfe" />
 
 ### Introduction
 
